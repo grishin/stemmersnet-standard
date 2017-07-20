@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <PackageId>StemmersNet.Standard</PackageId>
+    <PackageVersion>1.1.1</PackageVersion>
+    <Authors>Iveonik Systems (www.iveonik.com)</Authors>
+    <Description>Porting of snowballs stemmers to .NET Standard</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Compiled to .NET Standard</PackageReleaseNotes>
+    <Copyright>© Iveonik Systems, 2011-2012</Copyright>
+    <PackageTags>Stem Stemmer Snowball</PackageTags>
+  </PropertyGroup>
+
+</Project>

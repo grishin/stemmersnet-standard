@@ -1,2 +1,2 @@
 # stemmersnet-standard
-Unofficial port of StemmersNet library to .NET Standard and netcore
+Unofficial port of StemmersNet library (https://stemmersnet.codeplex.com/) to .NET Standard and netcore
